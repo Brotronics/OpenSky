@@ -9,5 +9,5 @@ Opensource FrSky Mini RX
 * [2x 1kΩ 0402 resistor](http://www.digikey.com/product-detail/en/ERJ-2GEJ102X/P1.0KJCT-ND/146897)
 * [0603 green LED](http://www.digikey.com/product-detail/en/APT1608SGC/754-1121-1-ND/1747838)
 * [16MHz resonator](http://www.digikey.com/product-detail/en/PRQC16.00SR5010X000/478-5420-1-ND/1987419)
-* [ATMEGA328\_QFN](http://www.digikey.com/product-detail/en/ATMEGA328P-15MZ/ATMEGA328P-15MZCT-ND/2477178)
+* [ATMEGA328\_QFN](http://www.digikey.com/product-detail/en/0/ATMEGA328P-MU-ND)
 * [CC2500 module](http://www.ebay.com/itm/280943872644)
